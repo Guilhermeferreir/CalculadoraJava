@@ -1,5 +1,5 @@
-# CalculadoraJava
- Calculadora feita com java Swing 
+# CalculatorJava
+Calculator made with Java swing
  
 
 
